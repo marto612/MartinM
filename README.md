@@ -1,4 +1,4 @@
-# .NET Portfolio (Third Version)
+# .NET Portfolio
 
 This is a new version of a simple .NET portfolio with updated project themes.
 
